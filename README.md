@@ -1,4 +1,3 @@
-# build-chatbot-enterprise.
 # Skill : Créer un chatbot IA complet (Blueprint Enterprise)
 
 ## DESCRIPTION DU SKILL
